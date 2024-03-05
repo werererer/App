@@ -1,2 +1,2 @@
 # myAppImages
-Created with [appnative](fyhttps://github.com/sarweshparajuli/appnativefy)
+Created with [appnative](https://github.com/sarweshparajuli/appnativefy)
