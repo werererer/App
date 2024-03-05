@@ -1,2 +1,2 @@
 # myAppImages
-Probably created with appnativefy
+Created with [appnative](fyhttps://github.com/sarweshparajuli/appnativefy)
